@@ -1,6 +1,6 @@
 # Portfolio - Manage Landing Page
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind)](https://skillicons.dev)
-![Manage]("images/manage-print-desktop.png")
+![Manage](images/manage-print-desktop.png)
 
 Bem-vindo ao repositório da landing page do Manage, um projeto criado para fins de portfólio, destacando habilidades em desenvolvimento web. A landing page é dedicada a apresentar um conceito fictício para um aplicativo de gerenciamento de equipes chamado Manage. Utilizei as tecnologias Tailwind, HTML, CSS e JavaScript para criar uma experiência interativa e visualmente atraente.
 
